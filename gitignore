@@ -1,0 +1,19 @@
+# Compiled files
+*.exe
+*.out
+*.o
+*.obj
+
+# CSV data files (user's personal tasks)
+TaskFile.csv
+temp.csv
+
+# IDE files
+.vs/
+.vscode/
+*.suo
+*.user
+
+# System files
+.DS_Store
+Thumbs.db
