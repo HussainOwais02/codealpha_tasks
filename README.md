@@ -1,22 +1,22 @@
-# 📝 TO-DO List Manager
+# TO-DO List Manager
 
 A console-based task management application built in C++ that helps users organize their daily tasks efficiently.
 
-## 🎯 Project Overview
+## Project Overview
 
 This is **Task 1** from my CodeAlpha internship program. The application allows users to manage tasks with features like adding, viewing, updating, and deleting tasks, along with persistent storage using CSV files.
 
-## ✨ Features
+## Features
 
-- ➕ **Add Tasks** - Create new tasks with categories and descriptions
-- ✅ **Mark Tasks** - Set tasks as pending or completed
-- 👀 **View Tasks** - Filter by status (pending/completed) and category
-- ✏️ **Update Tasks** - Modify task descriptions and status
-- 🗑️ **Delete Tasks** - Remove individual tasks or entire list
-- 💾 **Persistent Storage** - Tasks are saved to CSV file automatically
-- 🏷️ **Categorization** - Organize tasks by Personal, Work, or Education
+- **Add Tasks** - Create new tasks with categories and descriptions
+- **Mark Tasks** - Set tasks as pending or completed
+- **View Tasks** - Filter by status (pending/completed) and category
+- **Update Tasks** - Modify task descriptions and status
+- **Delete Tasks** - Remove individual tasks or entire list
+- **Persistent Storage** - Tasks are saved to CSV file automatically
+- **Categorization** - Organize tasks by Personal, Work, or Education
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Language:** C++
 - **Concepts:** 
@@ -26,12 +26,12 @@ This is **Task 1** from my CodeAlpha internship program. The application allows 
   - String Stream
   - Control Structures (Loops, Conditionals, Switch-Case)
 
-## 📋 Requirements
+## Requirements
 
 - C++ Compiler (GCC, MinGW, or MSVC)
 - C++11 or later
 
-## 🚀 How to Run
+## How to Run
 
 ### Compilation
 
@@ -53,7 +53,7 @@ g++ main.cpp -o todo.exe
 todo.exe
 ```
 
-## 📖 Usage Guide
+## Usage Guide
 
 ### Main Menu Options:
 
@@ -86,7 +86,7 @@ todo.exe
 5. Task is saved automatically!
 ```
 
-## 📁 File Structure
+## File Structure
 
 ```
 todo-list-manager/
@@ -96,7 +96,7 @@ todo-list-manager/
 └── .gitignore        # Git ignore rules
 ```
 
-## 🎓 Learning Outcomes
+## Learning Outcomes
 
 Through this project, I learned:
 - Implementing OOP principles in C++
@@ -106,7 +106,7 @@ Through this project, I learned:
 - CSV file parsing and manipulation
 - Building user-friendly console interfaces
 
-## 🐛 Known Issues / Future Improvements
+## Known Issues / Future Improvements
 
 - [ ] Add task priority levels
 - [ ] Implement due dates for tasks
@@ -114,21 +114,19 @@ Through this project, I learned:
 - [ ] Support for multiple users
 - [ ] Export tasks to different formats
 
-## 👨‍💻 Author
+## Author
 
 **Your Name**
 - Intern at CodeAlpha
 - Task: TO-DO List Application
 
-## 📄 License
+## License
 
 This project is part of the CodeAlpha internship program.
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - CodeAlpha for the internship opportunity
 - C++ community for documentation and resources
 
 ---
-
-⭐ If you found this project helpful, please consider giving it a star!
