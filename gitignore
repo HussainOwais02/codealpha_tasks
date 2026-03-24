@@ -1,0 +1,24 @@
+---
+
+### 2. .gitignore
+This is a "hidden" file that tells GitHub to ignore the files that only your computer needs. This keeps your repository clean. Create a file named `.gitignore` (make sure the dot is at the front) and paste this:
+
+```text
+# Ignore Executables
+*.exe
+*.out
+*.app
+
+# Ignore Build Objects
+*.o
+*.obj
+
+# Debugging symbols
+*.pdb
+*.dSYM/
+
+# IDE specific folders (VS Code / Visual Studio)
+.vscode/
+.vs/
+out/
+bin/
