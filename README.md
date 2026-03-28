@@ -3,7 +3,7 @@
 Welcome to my official repository for the **CodeAlpha Software Development Internship**. This project tracks my progression through various software engineering tasks, ranging from system utility tools to data-driven applications.
 
 ## Repository Structure
-To maintain a clean and professional workspace, each internship task is hosted on its own dedicated branch. This allows for specific environments (C++ vs Python) to remain organized.
+To maintain a clean and professional workspace, each internship task is hosted on its own dedicated branch.
 
 | Task # | Project Name | Tech Stack | Status | Branch Link |
 | :--- | :--- | :--- | :--- | :--- |
