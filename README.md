@@ -31,4 +31,4 @@ This project leverages key Object-Oriented Programming (OOP) and system programm
 1. Ensure you have a C++ compiler installed (like MinGW).
 2. Clone or download the repository:
    ```bash
-   git clone [Your-Repository-URL]
+   git clone https://github.com/HussainOwais02/codealpha_tasks.git
