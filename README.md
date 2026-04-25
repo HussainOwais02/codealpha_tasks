@@ -1,4 +1,4 @@
-# Task 1: Advanced GPA/CGPA Calculator
+# Advanced GPA/CGPA Calculator
 
 A robust, console-based C++ application designed to help students track their academic performance. This project was developed as part of the **CodeAlpha Internship**.
 
