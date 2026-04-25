@@ -1,0 +1,11 @@
+# Ignore compiled binaries
+*.exe
+*.o
+*.obj
+
+# Ignore data files (Personal data/Test data)
+bank_data.txt
+
+# Ignore IDE specific files (optional)
+.vscode/
+.idea/
